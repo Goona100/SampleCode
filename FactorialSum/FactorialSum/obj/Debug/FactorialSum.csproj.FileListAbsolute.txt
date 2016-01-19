@@ -1,0 +1,6 @@
+C:\Users\Sridhar\Documents\Visual Studio 2015\Projects\FactorialSum\FactorialSum\bin\Debug\FactorialSum.exe.config
+C:\Users\Sridhar\Documents\Visual Studio 2015\Projects\FactorialSum\FactorialSum\bin\Debug\FactorialSum.exe
+C:\Users\Sridhar\Documents\Visual Studio 2015\Projects\FactorialSum\FactorialSum\bin\Debug\FactorialSum.pdb
+C:\Users\Sridhar\Documents\Visual Studio 2015\Projects\FactorialSum\FactorialSum\obj\Debug\FactorialSum.exe
+C:\Users\Sridhar\Documents\Visual Studio 2015\Projects\FactorialSum\FactorialSum\obj\Debug\FactorialSum.pdb
+C:\Users\Sridhar\Documents\Visual Studio 2015\Projects\FactorialSum\FactorialSum\obj\Debug\FactorialSum.csprojResolveAssemblyReference.cache
